@@ -1,0 +1,1 @@
+# cria um array baseando-se em valores de outro array existente
